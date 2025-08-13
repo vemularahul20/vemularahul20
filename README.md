@@ -83,28 +83,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vemularahul20)
 ## 🐍 Contribution Snake
 ![Snake animation](https://github.com/vemularahul20/vemularahul20/blob/output/github-contribution-grid-snake.svg)
-name: Generate Snake
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@master
-        with:
-          github_user_name: vemularahul20
-          outputs: dist/github-contribution-grid-snake.svg
-      - name: Push snake animation to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ## 📈 Activity Graph
 [![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vemularahul20&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## 🏹 LeetCode Stats
