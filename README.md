@@ -91,3 +91,8 @@
 ## 📚 GeeksforGeeks Stats
 [![GFG Profile](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vemularahul20/)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vemularahul20/vemularahul20/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vemularahul20/vemularahul20/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/vemularahul20/vemularahul20/output/github-contribution-grid-snake.svg" />
+</picture>
