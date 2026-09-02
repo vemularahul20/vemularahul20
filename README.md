@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-- **Software Engineer** at HCL Technologies
+- 👨‍💻 **Software Engineer** at HCL Technologies
 - 🎓 B.Tech in **Computer Science & Engineering**, NIT Warangal (2025)
 - 💻 Passionate about **Java Backend Development, Spring Boot, and REST APIs**
 - 🌱 Currently learning **Java Performance Tuning & System Design**
