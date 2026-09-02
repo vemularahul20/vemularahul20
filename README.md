@@ -82,11 +82,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-vemula-11a2b4227/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vemularahul20@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vemularahul20)
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/vemularahul20/vemularahul20/blob/output/github-contribution-grid-snake.svg)
 
-## 📈 Activity Graph
-[![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vemularahul20&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## 🏹 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vemularahul20?ext=heatmap)
 ## 📚 GeeksforGeeks Stats
